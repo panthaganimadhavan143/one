@@ -8,7 +8,7 @@
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            background-color: #00FF00;
+            background-color: #F9F8F8;
             margin: 0;
             padding: 0;
         }
@@ -18,19 +18,21 @@
         .name {
             font-size: 36px;
             font-weight: bold;
-            color: #333;
+            color: #F1180A;
             margin-bottom: 20px;
         }
         .message {
             font-size: 24px;
-            color: #555;
+            color: #F1B90A;
         } 
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="name">Your Name</div>
-        <div class="message">Hi! Deployed Succesfully?</div>
+        <div class="name">this is  madhavan</div>
+        <div class="message">Deployed Sucessfully using Docker and Jenkins CI/CD Pipilines in Tomcat server</div>
+        <div class="message">" Tomorrow Never Comes <b>
+                               It's Always Today "                       </div>
     </div>
 </body>
 </html>
